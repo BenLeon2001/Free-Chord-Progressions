@@ -2,6 +2,8 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 I will still continue to add free chord progressions here reguarly! Thanks for viewing and have fun!
 
+If you enjoy these progressions, please star this repo if you wish! It'll help a lot! :)
+
 https://www.patreon.com/c/benleon
 
 VIDEOS OF SAMPLERS BEING USED HERE:
