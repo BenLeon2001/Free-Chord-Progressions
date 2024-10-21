@@ -9,3 +9,5 @@ https://www.patreon.com/c/benleon
 
 VIDEOS OF SAMPLERS BEING USED HERE:
 https://www.tiktok.com/@benleonsamplers?_t=8qgCNm59n67&_r=1
+
+edit: I understand it's easier to have them as seperate files over zip. Having thousands of inidivudal files makes it difficult, but i'll try and see how to make it easier for everyone!
