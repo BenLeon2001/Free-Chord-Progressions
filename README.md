@@ -4,7 +4,7 @@ I will still continue to add free chord progressions here reguarly! Thanks for v
 
 If you enjoy these progressions, please star this repo if you wish! It'll help a lot! :)
 
-I can customze several midi files all at once to your liking (including melodies) as a member
+My Patreon is here, has updates on my projects and future samplers! It's optional to join of course!
 https://www.patreon.com/c/benleon
 
 
