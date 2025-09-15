@@ -9,5 +9,8 @@ If you enjoy these progressions, please star this repo if you wish! It'll help a
 My Patreon is here, has updates on my projects and future samplers! It's optional to join of course!
 https://www.patreon.com/c/benleon
 
+If you wish to donate for the free midis which I add reguarly: fully optional, but link is here
+https://buymeacoffee.com/benleon2001
+
 
 edit: I understand it's easier to have them as seperate files over zip. Having thousands of inidivudal files makes it difficult, but i'll try and see how to make it easier for everyone!
