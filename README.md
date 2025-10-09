@@ -1,6 +1,28 @@
 All chords here are ROYALTY FREE for you and no license required! If you enjoy my chord progressions, I can create a chord progression based on scale and genre you specifically want on Patreon, with samplers there too 
 
-I have a Discord Bot which is perfect for educational use as well as personal use for producers! If you're an educational place, feel free to send me a DM benleon415@gmail.com Here is a video of it: https://www.patreon.com/posts/welcome-to-eng-137248566
+I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
+
+https://discord.gg/NPKpmf2C
+
+This is a free bot that can generate chords of thousands of scales, analyze scales, make AI Progressions based on scales you inputted. The four main commands are
+
+!progression -- For making progressions. This is a highly advanced feature that is on par with many chord progression generators
+
+!analyze -- Detect the scale and chords of the MIDI and reccomendations what to do next. Try to input it as a chord progression midi for accuracy
+
+!midigen -- Creates chord progressions based on midi files you input with the command, it creates an AI progression based on what is detected. Perfect for genre or very niche/specifc type of progression you want
+
+!exerperimentalmidigen -- A more experimental version of midigen, experiments with different chord lengths, candeces, and melodies
+
+!help -- For the help menu
+
+If you enjoy using Melossist, you can make a huge impact by sharing it across forums, posts, and discussions — the more people know, the better!
+
+I’m currently working on updating the OAuth and server settings so Melossist can be added to multiple Discord servers, making it even easier for everyone to use. Stay tuned for this update, and thank you for helping the community grow!
+
+If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
+
+https://buymeacoffee.com/benleon2001
 
 I will still continue to add free chord progressions here reguarly! Thanks for viewing and have fun!
 
