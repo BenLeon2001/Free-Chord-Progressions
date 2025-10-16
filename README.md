@@ -2,7 +2,7 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
-https://discord.gg/NPKpmf2C
+https://discord.gg/Tx36jEyy
 
 This is a free bot that can generate chords of thousands of scales, analyze scales, make AI Progressions based on scales you inputted. The four main commands are
 
