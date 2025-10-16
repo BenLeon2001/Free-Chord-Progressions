@@ -14,7 +14,7 @@ This is a free bot that can generate chords of thousands of scales, analyze scal
 
 !exerperimentalmidigen -- A more experimental version of midigen, experiments with different chord lengths, candeces, and melodies
 
-!help -- For the help menu
+!help_bot -- For the help menu
 
 If you enjoy using Melossist, you can make a huge impact by sharing it across forums, posts, and discussions — the more people know, the better!
 
