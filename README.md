@@ -4,6 +4,8 @@ I have a Discord Bot which is perfect for educational use as well as personal us
 
 https://discord.gg/MWe5SH5A
 
+https://sites.google.com/view/melossist/home?authuser=0
+
 This is a free bot that can generate chords of thousands of scales, analyze scales, make AI Progressions based on scales you inputted. The four main commands are
 
 !progression -- For making progressions. This is a highly advanced feature that is on par with many chord progression generators
