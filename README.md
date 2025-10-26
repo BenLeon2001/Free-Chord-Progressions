@@ -2,7 +2,7 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
-https://discord.gg/MWe5SH5A
+discord.gg/Et3S9nQ4
 
 https://sites.google.com/view/melossist/home?authuser=0
 
@@ -24,7 +24,7 @@ I’m currently working on updating the OAuth and server settings so Melossist c
 
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
-https://buymeacoffee.com/benleon2001
+https://ko-fi.com/benleon2001
 
 I will still continue to add free chord progressions here reguarly! Thanks for viewing and have fun!
 
