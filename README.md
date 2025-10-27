@@ -18,6 +18,8 @@ This is a free bot that can generate chords of thousands of scales, analyze scal
 
 !help_bot -- For the help menu
 
+NEW: Genre-based feature for your progressions! More info on the Discord
+
 If you enjoy using Melossist, you can make a huge impact by sharing it across forums, posts, and discussions — the more people know, the better!
 
 I’m currently working on updating the OAuth and server settings so Melossist can be added to multiple Discord servers, making it even easier for everyone to use. Stay tuned for this update, and thank you for helping the community grow!
