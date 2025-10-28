@@ -2,7 +2,7 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
-discord.gg/Et3S9nQ4
+https://discord.gg/XN4jcb2G
 
 https://sites.google.com/view/melossist/home?authuser=0
 
