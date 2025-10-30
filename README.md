@@ -4,6 +4,8 @@ I have a Discord Bot which is perfect for educational use as well as personal us
 
 https://discord.gg/XN4jcb2G
 
+Want to use Melossist on your server? -> https://discord.com/oauth2/authorize?client_id=1307948253878292480&permissions=277025441792&integration_type=0&scope=bot
+
 https://sites.google.com/view/melossist/home?authuser=0
 
 This is a free bot that can generate chords of thousands of scales, analyze scales, make AI Progressions based on scales you inputted. The four main commands are
