@@ -2,7 +2,7 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
-https://discord.gg/zkCMc37m
+https://discord.gg/EX6UnGrc
 
 Want to use Melossist on your server? -> https://discord.com/oauth2/authorize?client_id=1307948253878292480&permissions=277025441792&integration_type=0&scope=bot
 
