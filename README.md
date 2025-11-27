@@ -1,5 +1,9 @@
 All chords here are ROYALTY FREE for you and no license required! If you enjoy my chord progressions, I can create a chord progression based on scale and genre you specifically want on Patreon, with samplers there too 
 
+Check out www.melossist.com !
+
+^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
+
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
 https://discord.gg/dp2WQ8mY
