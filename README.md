@@ -6,7 +6,7 @@ Check out www.melossist.com !
 
 I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
 
-https://discord.gg/NaSwrr2H
+https://discord.gg/F7ud2XpT
 
 Want to use Melossist on your server? -> https://discord.com/oauth2/authorize?client_id=1307948253878292480&permissions=277025441792&integration_type=0&scope=bot
 
