@@ -10,20 +10,6 @@ https://discord.gg/zcwbNtX7
 
 Want to use Melossist on your server? -> https://discord.com/oauth2/authorize?client_id=1307948253878292480&permissions=277025441792&integration_type=0&scope=bot
 
-https://sites.google.com/view/melossist/home?authuser=0
-
-This is a free bot that can generate chords of thousands of scales, analyze scales, make AI Progressions based on scales you inputted. The four main commands are
-
-!progression -- For making progressions. This is a highly advanced feature that is on par with many chord progression generators
-
-!analyze -- Detect the scale and chords of the MIDI and reccomendations what to do next. Try to input it as a chord progression midi for accuracy
-
-!midigen -- Creates chord progressions based on midi files you input with the command, it creates an AI progression based on what is detected. Perfect for genre or very niche/specifc type of progression you want
-
-!exerperimentalmidigen -- A more experimental version of midigen, experiments with different chord lengths, candeces, and melodies
-
-!help_bot -- For the help menu
-
 NEW: Genre-based feature for your progressions! More info on the Discord
 
 If you enjoy using Melossist, you can make a huge impact by sharing it across forums, posts, and discussions — the more people know, the better!
@@ -41,4 +27,3 @@ If you enjoy these progressions, please star this repo if you wish! It'll help a
 My Patreon is here, has updates on my projects and future samplers! It's optional to join of course!
 https://www.patreon.com/c/benleon
 
-edit: I understand it's easier to have them as seperate files over zip. Having thousands of inidivudal files makes it difficult, but i'll try and see how to make it easier for everyone!
