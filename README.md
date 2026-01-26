@@ -4,17 +4,7 @@ Check out www.melossist.com !
 
 ^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
 
-I have a Discord Bot which is perfect for educational use as well as personal use for producers! 
-
 https://discord.gg/zcwbNtX7
-
-Want to use Melossist on your server? -> https://discord.com/oauth2/authorize?client_id=1307948253878292480&permissions=277025441792&integration_type=0&scope=bot
-
-NEW: Genre-based feature for your progressions! More info on the Discord
-
-If you enjoy using Melossist, you can make a huge impact by sharing it across forums, posts, and discussions — the more people know, the better!
-
-I’m currently working on updating the OAuth and server settings so Melossist can be added to multiple Discord servers, making it even easier for everyone to use. Stay tuned for this update, and thank you for helping the community grow!
 
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
