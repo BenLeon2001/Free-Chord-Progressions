@@ -3,8 +3,7 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 Check out www.melossist.com !
 
 ^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
-
-https://discord.gg/zcwbNtX7
+https://discord.gg/vDn2bqa4
 
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
