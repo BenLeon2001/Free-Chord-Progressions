@@ -2,8 +2,10 @@ All chords here are ROYALTY FREE for you and no license required! If you enjoy m
 
 Check out www.melossist.com !
 
+This website has features API ready for other software, if you wish to have any queries, feel free to email me at benleon415@gmail.com
+
 ^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
-https://discord.gg/JQqj6Hvh
+https://discord.gg/eJ2qpxWs
 
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
