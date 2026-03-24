@@ -5,7 +5,8 @@ Check out www.melossist.com !
 This website has features API ready for other software, if you wish to have any queries, feel free to email me at benleon415@gmail.com
 
 ^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
-https://discord.gg/eJ2qpxWs
+
+https://discord.gg/YysFY6xY
 
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
