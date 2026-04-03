@@ -6,8 +6,7 @@ This website has features API ready for other software, if you wish to have any 
 
 ^^^^^^This website is the ultimate chord generator, MIDI analysis, genre-based, flexible chord generator out there!
 
-https://discord.gg/YysFY6xY
-
+https://discord.gg/f2s9Yeya
 If you wish to help maintain the servers and any new features ideas, regular updates, feel free to donate below! Requests will be heavily considered under donations
 
 https://ko-fi.com/benleon2001
