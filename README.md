@@ -22,7 +22,7 @@ No sign-up. No downloads. Just music.
 |------|--------------|
 |  **Chord Generator** | Generate progressions in any key or genre |
 |  **MIDI Analyzer** | Upload and analyze any MIDI file |
-|  **Text-to-MIDI** | Describe a song, get a MIDI file |
+|  **Text-to-MIDI** | Have your AI chatbot send you progressions, get a MIDI file instantly |
 |  **Genre Tracks** | Generate genre-specific progressions |
 |  **Music Theory Quiz** | Test your knowledge |
 
