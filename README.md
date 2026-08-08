@@ -42,7 +42,7 @@ No sign-up. No downloads. Just music.
 ##  Quick Start
 
 1. Visit **[melossist.com](https://www.melossist.com)**
-2. Click "Chord Progression Generator"
+2. Click any feature you want
 3. Select a key and genre
 4. Download your MIDI file
 5. Use it in your project!
