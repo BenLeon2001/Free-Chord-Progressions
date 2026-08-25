@@ -6,11 +6,11 @@
 
 ---
 
-##  Stop Guessing. Start Making Music.
+##  Start Making Music.
 
 **Generate royalty-free chord progressions in seconds.**
 
- **[Click Here to Try the Live Tool](https://www.melossist.com/chord-progression-generator)** 👈
+ **[Click Here to Try the Live Tool](https://www.melossist.com)** 👈
 
 No sign-up. No downloads. Just music.
 
